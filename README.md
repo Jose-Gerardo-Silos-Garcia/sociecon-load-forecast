@@ -1,4 +1,4 @@
-This repository accompanies the journal paper "A Socio-Technical Approach to Load Forecasting for Super Smart Grids: A Multi-domain Attention-Based Neural Network." It contains the processed data and source code with model architectures
+This repository accompanies the journal paper "A Socio-Technical Approach to Load Forecasting for Super Smart Grids: A Multi-domain Attention-Based Neural Network."
 
 Overview
 The paper proposes a deep learning model that integrates socioeconomic, temporal, and electrical features for multi-zonal load forecasting. Using a multi-domain attention-based neural network, the approach improves both predictive accuracy and model interpretability for applications in super smart grids.
